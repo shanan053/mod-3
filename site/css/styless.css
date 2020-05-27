@@ -1,0 +1,48 @@
+* {
+box-sizing: border-box;
+}
+
+.navbar-brand a{
+color: #000000;
+}
+
+.navbar-brand a:hover{
+color:#565656;
+text-decoration: none;
+}
+
+.innerpad{
+padding: 20px;
+}
+
+.chicken{
+	margin-top: 20px;
+background-color: #875C74;
+height: 500px;
+}
+
+.beef{
+	margin-top: 20px;
+background-color: #A790A5;
+height: 500px;
+}
+
+.sushi{
+	margin-top: 20px;
+background-color: #C5EBC3;
+height: 500px;
+}
+
+ p{
+	color: #FFFFFF;
+	margin: 0 ;
+	text-align: center;
+	font-size: 120%;
+}
+
+p:hover {
+text-decoration: none;
+text-shadow: 2px 2px 2px yellow;
+}
+
+	
